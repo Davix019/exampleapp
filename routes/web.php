@@ -18,5 +18,5 @@ Route::get('/', function () {
 });
 
 Route::get('/asdf', function () {
-    return "xd";
+    return "hello laravel";
 });
